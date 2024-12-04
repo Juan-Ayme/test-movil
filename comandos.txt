@@ -1,0 +1,5 @@
+pip install pytest and request
+
+
+para pruebas unitarias
+pytest -k test_successful_register
